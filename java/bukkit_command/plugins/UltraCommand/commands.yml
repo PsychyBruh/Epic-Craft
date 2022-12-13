@@ -1,0 +1,11 @@
+commands:
+  spawn:
+    consoleCommands: []
+    playerCommands:
+    - mv tp world
+    text:
+    - Teleporting...
+  ranks:
+    text:
+    - ''
+    playerCommands: []

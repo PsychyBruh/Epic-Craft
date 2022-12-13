@@ -1,0 +1,15 @@
+Killer:
+  PaidAmount: 50.0
+  Random: false
+Victim:
+  LoseAmount: 6.0
+  Random: false
+RespawnProtection:
+  'On': true
+  Time: 15
+Killstreaks On: true
+Killstreaks:
+  '5': 50.0
+Messages:
+  Killer: '&cYou just killed %victim and got %killercash'
+  Victim: '&aYou just got killed by %killer and lost %victimcash'

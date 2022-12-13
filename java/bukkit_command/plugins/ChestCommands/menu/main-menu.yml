@@ -1,0 +1,53 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4Chest Commands'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'menu'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 340
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+
+
+
+
+
+
+
+
+
+shop:
+  COMMAND: 'open:simple-shop.yml'
+  NAME: '&d[+] Shop [+]'
+  LORE:
+    - 'Did you know? You can make'
+    - 'GUI shops with this plugin.'
+  ID: 388
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2

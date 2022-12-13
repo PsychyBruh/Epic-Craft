@@ -1,0 +1,63 @@
+# Citizens NPC Storage
+
+npc:
+  '2':
+    traits:
+      spawned: true
+      location:
+        world: Fall
+        x: '1191.9866835672672'
+        y: '21.0'
+        z: '-180.4487047578631'
+        yaw: '185.400390625'
+        pitch: '4.200008392333984'
+      owner: psychy
+    name: SHOP
+    traitnames: type,spawned,location,owner
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    traits:
+      spawned: true
+      location:
+        world: Fall
+        x: '1200.4838635504816'
+        y: '20.0'
+        z: '-192.2354002074931'
+        yaw: '87.89989471435547'
+        pitch: '6.149993419647217'
+      owner: psychy
+    name: BACK
+    traitnames: type,spawned,location,owner
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    traits:
+      spawned: true
+      location:
+        world: Fall
+        x: '1198.6149983959137'
+        y: '4.0'
+        z: '-193.52576467825398'
+        yaw: '235.05010986328125'
+        pitch: '-3.149991512298584'
+      owner: psychy
+    name: To-Spawn
+    traitnames: type,spawned,location,owner
+    navigator:
+      speed: '1.0'
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

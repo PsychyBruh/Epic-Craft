@@ -1,0 +1,36 @@
+Example:
+  x: 0
+  y: 70
+  z: 0
+  yaw: 120
+  pitch: 25
+  world: world
+  owner: Notch
+  description: Custom description
+Example2:
+  x: 0
+  y: 70
+  z: 0
+  yaw: 120
+  pitch: 25
+  world: world
+  owner: Notch
+  description: Custom description
+Spawn:
+  x: 0
+  y: 70
+  z: 0
+  yaw: 120
+  pitch: 25
+  world: world
+  owner: Notch
+  description: Custom description
+lobby:
+  x: 321.57780940138036
+  y: 6.0
+  z: -661.2898188331778
+  yaw: -38.550003
+  pitch: 54.600006
+  world: lobby
+  owner: psychy
+  description: here

@@ -1,0 +1,60 @@
+armour:
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+- ==: org.bukkit.inventory.ItemStack
+  type: AIR
+  damage: -1
+  amount: 0
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  type: SIGN
+  amount: 9
+- ==: org.bukkit.inventory.ItemStack
+  type: GLOWSTONE_DUST
+  amount: 5
+- ==: org.bukkit.inventory.ItemStack
+  type: GLOWSTONE_DUST
+  amount: 3
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

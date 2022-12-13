@@ -1,0 +1,21 @@
+timestamps:
+  login: 1669650751588
+  logout: 1669650775237
+  lastteleport: 1669642034360
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Fall
+  x: 1203.5785414540999
+  y: 4.0
+  z: -199.48227112252926
+  yaw: 122.54989
+  pitch: 15.749994
+afk: false
+money: '0.0'
+lastlocation:
+  world: Fall
+  x: 1200.8587033130877
+  y: 20.0
+  z: -186.75753742186606
+  yaw: 159.2999
+  pitch: 4.6499925

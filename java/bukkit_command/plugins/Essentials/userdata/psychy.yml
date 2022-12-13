@@ -1,0 +1,25 @@
+timestamps:
+  login: 1670896196272
+  logout: 1670896372907
+  lastteleport: 1670896344029
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 145.5
+  y: 28.0
+  z: 22.5
+  yaw: 37.65
+  pitch: -21.000002
+lastlocation:
+  world: world
+  x: 222.91044833001126
+  y: 57.0
+  z: 293.09582668238494
+  yaw: 4.9500003
+  pitch: 12.000001
+afk: false
+money: '10'
+mail:
+- 'Creeper1: when you gonna release this server?'
+- 'Creeper1: are you gonna delete the other one?'
+- 'Creeper1: if you are, luke and ryan will be very disappointed'

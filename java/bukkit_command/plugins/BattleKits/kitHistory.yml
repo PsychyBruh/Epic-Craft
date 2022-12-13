@@ -1,0 +1,9 @@
+# This file contains the kit history, i.e. the last kit the user requested for respawning kits on death
+# Also contains info on whether the player has used their kit in their life
+# There is no reason to ever modify this file.
+kitHistory:
+  psychy: pyro
+dead:
+  psychy: true
+killStreaks:
+  psychy: 0

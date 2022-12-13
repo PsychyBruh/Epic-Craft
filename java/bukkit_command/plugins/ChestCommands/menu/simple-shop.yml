@@ -1,0 +1,76 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+menu-settings:
+  name: '&5Shop'
+  rows: 6
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+buy-diamond-sword:
+  PRICE: 500
+  COMMAND: 'give:276'
+  NAME: '&aBuy Sword'
+  LORE:
+    - 'Diamond Sword'
+    - 'Only the Worthy Have this Sword'
+  ID: 276
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+enchanted-bow:
+  PRICE: 325
+  COMMAND: 'give:261'
+  NAME: '&aBuy'
+  LORE:
+    - 'Just a bow'
+    - 'BUT WITH FLAMES!!!'
+  ID: 261
+  KEEP-OPEN: true
+  ENCHANTMENT: Flame,1
+  POSITION-X: 2
+  POSITION-Y: 1
+
+
+Coming-soon:
+  PRICE: 1000000
+  COMMAND: 'give:234'
+  NAME: 'Coming soon'
+  LORE:
+    - 'More things'
+    - 'Coming soon'
+  ID: 265
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+
+
+
+
+
+
+
+
+
+
+
+
+return-to-main:
+  COMMAND: 'open:main-menu.yml'
+  NAME: '&6[arrow_left] Back to the main menu'
+  ID: 399
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 6

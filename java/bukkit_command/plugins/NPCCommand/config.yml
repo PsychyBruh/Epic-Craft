@@ -1,0 +1,4 @@
+NPC Data:
+  '3': /mv tp world
+  '2': /chc open simple-shop.yml
+  '4': /mv tp world
